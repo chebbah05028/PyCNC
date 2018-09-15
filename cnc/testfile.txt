@@ -1,1 +1,4 @@
 test command git fetch
+test command git fetch
+test command git fetch
+test command git fetch
